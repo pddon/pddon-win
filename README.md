@@ -6,6 +6,7 @@ If you are afraid of not drawing well, use PDDON. It can be used to draw process
 
 * Online drawing address: https://pddon.com
 * Windows client download address: https://github.com/pddon/pddon-win
+* [查看中文版文档](./README_zn.md)
 
 PDDON can be used to draw flow chart, architecture diagram, mind map, UML, BPMN, network topology diagram, ER diagram, database model diagram, Wayne diagram, fishbone diagram, Whiteboard drawing, etc.
 
@@ -21,35 +22,35 @@ The desktop version supports permanent saving of drawing data, unlimited number 
 
 * AI Related diagram
 
-    ![](./images/ai.jpeg)
+    ![ai](./images/ai.jpeg)
 
 * Architecture diagram
 
-    ![](./images/arcAll.png)
+    ![arc1](./images/arcAll.png)
 
-    ![](./images/arcAll2.png)
+    ![arc2](./images/arcAll2.png)
 
 * Flow chart diagram
 
-    ![](./images/processAll.png)
+    ![process](./images/processAll.png)
 
 * UML diagram
 
-    ![](./images/umlAll.png)
+    ![uml](./images/umlAll.png)
 
 * Product Manager Common Drawings
 
-    ![](./images/styleAll1.png)
+    ![style1](./images/styleAll1.png)
 
-    ![](./images/styleAll2.png)
+    ![style2](./images/styleAll2.png)
 
 * Class model diagram
 
-    ![](./images/modelClass.png)
+    ![class model](./images/modelClass.png)
 
 * Database model diagram
 
-    ![](./images/modelER.png)
+    ![database model](./images/modelER.png)
 
 #### Other information
 
