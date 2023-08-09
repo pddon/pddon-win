@@ -6,6 +6,7 @@
 
 * 在线画图地址: https://pddon.com
 * windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win
+* windows桌面客户端安装包阿里云盘下载地址: https://www.aliyundrive.com/s/4swUD92hFDL
 
 PDDON可用于绘制流程图、架构图、思维导图、UML、BPMN、网络拓扑图、ER图、数据库模型图、韦恩图、鱼骨图等等。
 
