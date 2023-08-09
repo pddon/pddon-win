@@ -19,6 +19,10 @@ It provides a custom connection/component DIY, supports the use and search of ne
 
 The desktop version supports permanent saving of drawing data, unlimited number of drawings, unlimited drawing size, unlimited export image format, and exporting high-definition large images. The drawing function is not limited and all are available. Can import and export drawing design drafts and support batch production. Download images in rich formats, supporting png, jpg, svg, pdf, webp, and more. Do not list more useful features one by one, wait for you to discover!
 
+#### examples
+* app use case
+  ![destop app use case](./images/pddon画图桌面版使用示例.gif)
+
 #### Next, let's take a look at some common drawings drawn by PDDON
 
 * AI Related diagram
