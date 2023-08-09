@@ -16,8 +16,8 @@ PDDON可用于绘制流程图、架构图、思维导图、UML、BPMN、网络�
 
 桌面版支持绘图数据永久保存、绘图数量不设上限、绘图大小不设上限、导出图片格式不限、支持高清大图，绘图功能不设限制，全部可用。可以导入、导出绘图设计稿且支持批量。下载图片格式丰富，支持png、jpg、svg、pdf、webp等等，更多好用功能就不一一列举了，等您来发现哦！
 
-#### examples
-* app use case
+#### 使用示例
+* PDDON桌面版简单使用示例
   ![destop app use case](./images/pddon画图桌面版使用示例.gif)
   
 #### 下面带大家看看使用PDDON绘制的一些常用绘图
@@ -54,11 +54,11 @@ PDDON可用于绘制流程图、架构图、思维导图、UML、BPMN、网络�
 
     ![](./images/modelER.png)
 
-#### Other information
+#### 其他信息
 
-* Video Tutorials：https://space.bilibili.com/1293169179/video
-* WeChat official account：PDDON在线画图
-* Official website： https://pddon.com
-* Email: support@pddon.com
-* QQ Group：784463342 
-* Wechat: anjoyhaha
+* 视频教程：https://space.bilibili.com/1293169179/video
+* 微信公众号：PDDON在线画图
+* 官方站点： https://pddon.com
+* 技术支持邮箱: support@pddon.com
+* QQ粉丝群：784463342 
+* 客服微信号: anjoyhaha
