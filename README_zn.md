@@ -8,6 +8,8 @@
 * windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win
 * windows桌面客户端安装包阿里云盘下载地址: https://www.aliyundrive.com/s/4swUD92hFDL
 
+> 如果觉得不错，可以点一个star哦，蟹蟹啦(#^.^#)  
+
 PDDON可用于绘制流程图、架构图、思维导图、UML、BPMN、网络拓扑图、ER图、数据库模型图、韦恩图、鱼骨图等等。
 
 同时非常贴心的为程序员用户提供了对象建模、数据库建模、代码生成等支持，而且支持一键修改整体样式、一键美化绘图、编辑、排版、多设计图协同编辑能力，类似Excel的简易操作方式。
