@@ -6,7 +6,9 @@
 
 * 在线画图地址: https://pddon.com
 * windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win
-* windows桌面客户端安装包阿里云盘下载地址: https://www.aliyundrive.com/s/4swUD92hFDL
+* mac桌面客户端安装包下载地址: https://github.com/pddon/pddon-mac
+* linux桌面客户端安装包下载地址: https://github.com/pddon/pddon-linux
+* 桌面客户端安装包阿里云盘下载地址: [https://www.aliyundrive.com/s/bjatcSHPaK4](https://www.aliyundrive.com/s/bjatcSHPaK4)
 
 > 如果觉得不错，可以点一个star哦，蟹蟹啦(#^.^#)  
 
