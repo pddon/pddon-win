@@ -5,9 +5,9 @@
 怕画不好图就用PDDON，可用于绘制流程图、架构图、思维导图、UML、BPMN、网络拓扑图、ER图、数据库模型图、韦恩图、鱼骨图等，并且支持对象建模、数据库建模、代码/脚本生成，提供了丰富的定制化绘图功能组件库，带来更贴心易用的设计体验。
 
 * 在线画图地址: https://pddon.com
-* windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win
-* mac桌面客户端安装包下载地址: https://github.com/pddon/pddon-mac
-* linux桌面客户端安装包下载地址: https://github.com/pddon/pddon-linux
+* windows桌面客户端安装包下载地址: https://github.com/pddon/pddon-win/releases/latest
+* mac桌面客户端安装包下载地址: https://github.com/pddon/pddon-mac/releases/latest
+* linux桌面客户端安装包下载地址: https://github.com/pddon/pddon-linux/releases/latest
 * 桌面客户端安装包阿里云盘下载地址: [https://www.aliyundrive.com/s/bjatcSHPaK4](https://www.aliyundrive.com/s/bjatcSHPaK4)
 
 > 如果觉得不错，可以点一个star哦，蟹蟹啦(#^.^#)  
